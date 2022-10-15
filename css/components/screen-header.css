@@ -13,3 +13,10 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+.screen-header__icons {
+  position: relative;
+}
+.gear-dot {
+  right: 0;
+  top: 0;
+}
